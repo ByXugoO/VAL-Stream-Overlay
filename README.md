@@ -32,10 +32,16 @@ As previously mentioned, this app is tailored for content creators to create a m
 
 ![Figure 1](./readme_imgs/notingame.png)
 *Figure 1: Not in game screen*
+
+
 ![Figure 2](./readme_imgs/maploading.png)
 *Figure 2: Match found, shows map*
+
+
 ![Figure 3](./readme_imgs/agentpick.png)
 *Figure 3: Agent select screen*
+
+
 ![Figure 4](./readme_imgs/ingame.png)
 *Figure 4: In game screen*
 
