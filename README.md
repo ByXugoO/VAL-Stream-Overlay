@@ -1,7 +1,7 @@
-# [App Name] - Dual Stats & Streaming Overlay
+# VAL Stream Overlay - Dual Stats & Streaming Overlay
 
 ## 📖 About the Project
-**[App Name]** is a comprehensive statistics and visualization tool designed for Valorant players and content creators. The application operates through an innovative "dual overlay" system that separates the player's private tactical information from the visual experience shown to viewers on streaming platforms.
+**VAL Stream Overlay** is a comprehensive statistics and visualization tool designed for Valorant players and content creators. The application operates through an innovative "dual overlay" system that separates the player's private tactical information from the visual experience shown to viewers on streaming platforms.
 
 The application will be distributed as an official Overwolf desktop app, seamlessly hosting Overwolf Ads to ensure sustainability while complying with platform requirements.
 
@@ -28,9 +28,17 @@ To ensure optimal performance and strict adherence to Riot's competitive integri
 > **Note on Compliance:** The screenshots below show the current UI/UX layout design from our early functional prototype. **All player stats, usernames, ranks, and match data displayed in these images are dummy/mock data used solely for visual presentation purposes.** The final production version will strictly query permitted allies in real-time and enforce Riot's "Fog of War" policies.
 
 ### OBS Browser Overlay (Stream-Friendly)
-![OBS Overlay Mockup](./path-to-your-obs-image.png)
-*Figure 1: Stream-friendly Browser Overlay concept for OBS (Loading Screen).*
+As previously mentioned, this app is tailored for content creators to create a more engaging visual experience for viewers during the agent selection and match loading screens.
 
-### In-Game Desktop Overlay
-![In-Game Overlay Mockup](./path-to-your-ingame-image.png)
-*Figure 2: In-Game Desktop Overlay layout for the player.*
+![Figure 1](./readme_imgs/notingame.png)
+*Figure 1: Not in game screen*
+![Figure 2](./readme_imgs/maploading.png)
+*Figure 2: Match found, shows map*
+![Figure 3](./readme_imgs/agentpick.png)
+*Figure 3: Agent select screen*
+![Figure 4](./readme_imgs/ingame.png)
+*Figure 4: In game screen*
+
+### In Game Overlay
+*In development*
+
